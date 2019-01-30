@@ -2,7 +2,7 @@
 
 This is the source code for the tutorial:
 
-> [**A Neural Implementation of NBSVM in Keras**](http://test/test) 
+> [**A Neural Implementation of NBSVM in Keras**](https://medium.com/@asmaiya/a-neural-implementation-of-nbsvm-in-keras-d4ef8c96cb7c) by Arun Maiya.
 
 NBSVM is a text classification model proposed by Wang and Manning in 2012 that takes a linear model such as SVM (or logistic regression) and infuses it with Bayesian probabilities by replacing word count features with Naive Bayes log count ratios.  Despite its simplicity, NBSVM models have been shown to be both fast and powerful across wide range of different text classification datasets.  In this notebook, we cover the following:
 
